@@ -1,0 +1,36 @@
+{
+  "intents": [
+    {
+      "tag": "time",
+      "patterns": [
+        "what is the time",
+        "time right now",
+        "tell me time",
+        "current time"
+      ]
+    },
+    {
+      "tag": "wiki",
+      "patterns": [
+        "who is",
+        "what is",
+        "tell me about",
+        "information about"
+      ]
+    },
+    {
+      "tag": "google",
+      "patterns": [
+        "open google",
+        "go to google"
+      ]
+    }
+    {
+      "tag": "youtube",
+      "patterns": [
+        "open yotube","youtube"
+        "go to youtube"
+      ]
+    }
+  ]
+}
